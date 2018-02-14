@@ -18,7 +18,7 @@ cin.get();
 for(int i=0;i<n;i++){
     cin.getline(string_list[i],30);
 }
-cout<<"Enter the string to be search ";
+cout<<"Enter the string to be searched ";
 cin.getline(key,30);
 
 int i;

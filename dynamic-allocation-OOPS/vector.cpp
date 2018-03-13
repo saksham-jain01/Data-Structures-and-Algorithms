@@ -66,10 +66,6 @@ public:
             /// v2[j] or v2.at(j) or v2.arr(j)
         }
     }
-    void operator=(const Vector &v2){
-        ///HOME WORK.
-
-    }
     void print() const{
         for(int i=0;i<index;i++){
             cout<< arr[i]<<" ";
